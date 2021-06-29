@@ -24,9 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-[MobileView1](3 column preview card component main\finished project images\mobile view 1.PNG)
-[MobileView2](3 column preview card component main\finished project images\mobile view 2.PNG)
-[MobileView3](3 column preview card component main\finished project images\mobile view 3.PNG)
+- [MobileView1](finished project images\mobile view 1.PNG)
+- [MobileView2](finished project images\mobile view 2.PNG)
+- [MobileView3](finished project images\mobile view 3.PNG)
 
 ## My process
 
